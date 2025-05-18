@@ -16,17 +16,17 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{cyberrajib4040}/count.svg" alt="cyberrajib4040 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{cyberapis404}/count.svg" alt="cyberapis404 :: Visitor's Count" /></p>
 
 `Click My Official Web Page`
 <p align="center">
-<a href="https://sahan-maduwantha.vercel.app/"><img src="https://img.shields.io/badge/OFFICIAL-SITE-black" alt="OFFICIAL SITE" width="100"></a>
+<a href="https://cyber-web-eta.vercel.app/"><img src="https://img.shields.io/badge/OFFICIAL-SITE-black" alt="OFFICIAL SITE" width="100"></a>
 
 <p align="center">
- <a href="https://github.com/cyberrajib4040">
- <img title="Owner" src="https://img.shields.io/badge/cyberrajib4040-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/cyberrajib4040">
-    <img src="https://img.shields.io/github/followers/cyberrajib4040?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/cyberapis404">
+ <img title="Owner" src="https://img.shields.io/badge/cyberapis404-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/cyberapis404">
+    <img src="https://img.shields.io/github/followers/cyberapis404?style=flat-square&logo=github&color=darkred">
   </a>
  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -37,39 +37,39 @@
 
 
 
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrMasterOfc&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXTEAM.me)
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=cyberapis404&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXTEAM.me)
   
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMasterOfc&show_icons=true&locale=en&layout=compact" alt="MASTERMIND" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberapis404&show_icons=true&locale=en&layout=compact" alt="CYBER"</></p>
 
 # Contribution Graph:
 
 
 <p align="center">
-  <a href="https://github.com/MrMasterOfc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMasterOfc#version3"/>
+  <a href="https://github.com/cyberapis404">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberapis404#version3"/>
   </a>
 </p>
-<a href="https://github.com/MrMasterOfc"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MrMasterOfc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/cyberapis404"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=cyberapis404&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
 # Github Streak ☠︎︎
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MrMasterOfc&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrMasterOfc.me)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=cyberapis404&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://cyberapis404.me)
 
 
 
 # My Status☠︎︎
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMasterOfc&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberapis404&show_icons=true&theme=radical)
   
 # My currently working Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/cyberrajib4040)
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/cyberapis404)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # I Like 
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,js,heroku,github,html,vercel,py,kali,github,blender=15)](https://github.com/cyberrajib4040)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,js,heroku,github,html,vercel,py,kali,github,blender=15)](https://github.com/cyberapis404)
 
 <h2 align="center" border="0">My Tech Stack</h2>
 
